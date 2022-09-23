@@ -1,0 +1,6 @@
+Write a python program to get 2 numbers from the user and calculate their sum and difference using '+' and '-' operators respectively. Print the corresponding sum and difference of the numbers as output in the console.
+
+a=int (input())
+b=int (input())
+print(a+b)
+print(a-b)
